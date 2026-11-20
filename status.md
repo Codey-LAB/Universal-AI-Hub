@@ -229,6 +229,7 @@ Patch für Skills, core_agent.db/md umgeschrieben und verkürtzt. secure_vectori
 - [x] ideas duckduckgo fallback secure
 - [x] cli dummy HF all needed (maybe)
 - [x] Discord eingebaut, nicht getestet auf Discord server
+- [x] user test.skill 
 
 
 
